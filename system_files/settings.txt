@@ -1,0 +1,2 @@
+screen_size:800x600
+music_volume:4
